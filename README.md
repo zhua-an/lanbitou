@@ -1,6 +1,7 @@
 # 烂笔头
 
 ## 前端
+### [可视化大屏自适应工具：autofit.js](../view/ui/autofit.js.md)
 ### [前端大容量存储IndexedDB之Dexie.js](https://dexie.org/)
 ### [功能强大的JavaScript 拖拽库 - SortableJS](http://www.sortablejs.com/)
 
